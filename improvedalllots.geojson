@@ -1,0 +1,1 @@
+{\n  "type": "FeatureCollection",\n  "features": [\n    {\n      "type": "Feature",\n      "geometry": {\n        "type": "Point",\n        "coordinates": [102.0, 0.5]\n      },\n      "properties": {\n        "prop0": "value0"\n      }\n    }\n  ]\n}
